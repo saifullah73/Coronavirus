@@ -3,4 +3,4 @@ This is a project i did as part of my semester course for Machine Learning(CS471
 
 This project does time series forecasting on daily coronavirus cases reported in a country and predicts future daily cases. The current project uses data uptil 27th May for predictions. You can also find a demonstration of predictions made on more recent data at the end of the jupyter file (uptil 11th June). 
 
-Due to limitation of amount of data availalble for forecasting, we also try to find realted countries to our country of choice, and use their data to make more enhanced predictions.A few techniques used to compare time series were corrleations and differences.
+Due to limitation of amount of data available for forecasting, we also try to find realted countries to our country of choice, and use their data to make more enhanced predictions.A few techniques used to compare time series were corrleations and differences.
