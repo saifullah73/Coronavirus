@@ -1,4 +1,4 @@
-# Coronavirus
+# Coronavirus Forecasting
 This is a project i did as part of my semester course for Machine Learning. It involes time series forecasting using LSTM. As a challenge, we were only limited to use of Pytorch and
 Numpy for the implementation of our models. We could not use any pre made models like ARIMA in statsmodel library.
 
